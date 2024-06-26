@@ -52,7 +52,7 @@
 ![C](https://img.shields.io/badge/Linguagem_C-0D1117?style=for-the-badge&logo=C&logoColor=#ccc)
 ![JS](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=#yellow)
 ![python](https://img.shields.io/badge/py-0D1117?style=for-the-badge&logo=python&logoColor=#c3c3c3)
-![SQL](https://img.shields.io/badge/sql-0D1117?style=for-the-badge&logo=&logoColor=#FFF)
+![SQL](https://img.shields.io/badge/banco_de_dados-0D1117?style=for-the-badge&logo=MySql&logoColor=#white)
 
 
 
